@@ -1,0 +1,10 @@
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\ReadFilesServices.exe.config
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\ReadFilesServices.exe
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\ReadFilesServices.pdb
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\SMS_Automation_Service.ReadFilesServices.resources
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Read_Files_Services.ProjectInstaller.resources
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Read_Files.csproj.GenerateResource.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Read_Files.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\ReadFilesServices.exe
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\ReadFilesServices.pdb
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Read_Files.csproj.AssemblyReference.cache

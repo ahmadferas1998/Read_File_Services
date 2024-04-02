@@ -1,0 +1,20 @@
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\Card_block.csproj.GenerateResource.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\Card_block.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.exe.config
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMSAutomationServiceBlock.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMSAutomationServiceBlock.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.SMSAutomationServiceBlock.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service_Block.ProjectInstaller.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\Card_block.csproj.AssemblyReference.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.exe.config
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.exe
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\bin\Debug\SMSAutomationServiceBlock.pdb
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Card_block.csproj.AssemblyReference.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\SMS_Automation_Service.SMSAutomationServiceBlock.resources
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\SMS_Automation_Service_Block.ProjectInstaller.resources
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Card_block.csproj.GenerateResource.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\Card_block.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\SMSAutomationServiceBlock.exe
+C:\Users\SQ1User\source\repos\ReadFilesServices\SMS Automation Service\obj\Debug\SMSAutomationServiceBlock.pdb

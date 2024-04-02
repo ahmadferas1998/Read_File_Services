@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.SMS_Automation.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.csproj.AssemblyReference.cache

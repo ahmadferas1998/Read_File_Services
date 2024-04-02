@@ -1,0 +1,48 @@
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.casa_dormancy_notification_Service.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.AssemblyReference.cache
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.casa_dormancy_notification_Service.resources
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.GenerateResource.cache
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.casa_dormancy_notification_Service.resources
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.GenerateResource.cache
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\NEW-SMS\Desktop\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\Banque Misr Solution Package S1 S2 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.casa_dormancy_notification_Service.resources
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\USER\Desktop\Banque Misr SMS Automation\Banque Misr Solution Package S1 S2 S3 S4 Dev on server\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe.config
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\bin\Debug\SMS Automation Service.pdb
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.AssemblyReference.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.ProjectInstaller.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS_Automation_Service.casa_dormancy_notification_Service.resources
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.GenerateResource.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\casa_dormancy_notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.exe
+C:\Users\SQ1User\Desktop\project-Ahmad-zaid\AhmadAbo Abdo _ Banque Misr SRC\AhmadAbo Abdo _ Banque Misr SRC\SMS Automation Service\SMS Automation Service\obj\Debug\SMS Automation Service.pdb
